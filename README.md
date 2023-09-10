@@ -60,6 +60,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/call4hack/call4hack/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/call4hack/output/snake.svg" alt="Snake animation" />
 
 ###
