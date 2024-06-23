@@ -7,9 +7,6 @@
 
 ###
 
-<iframe align="right" height="150" src="https://gifer.com/embed/3BBS" width=480 height=320.000 frameBorder="0" allowFullScreen></iframe>
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="57" alt="html5 logo"  />
   <img width="19" />
